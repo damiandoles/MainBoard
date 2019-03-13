@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=boxer_rpi.SchDoc
+Record=TopLevelDocument|FileName=boxer_main.SchDoc
+Record=SheetSymbol|SourceDocument=boxer_main.SchDoc|Designator=Power and supply|SchDesignator=Power and supply|FileName=boxer_supply.SchDoc|SymbolType=Normal|RawFileName=boxer_supply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=boxer_main.SchDoc|Designator=RS485 & Buzzer & FAN 12V|SchDesignator=RS485 & Buzzer & FAN 12V|FileName=boxer_RS485.SchDoc|SymbolType=Normal|RawFileName=boxer_RS485.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
