@@ -173,6 +173,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KEWNCYDG
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for MainBoard\Design Rule Check - PCB.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=.revision
 Value=1.0
